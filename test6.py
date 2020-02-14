@@ -20,6 +20,7 @@ from eli5.sklearn import PermutationImportance
 data=pd.read_csv('C:/Users/LENOVO/Desktop/gestion des risques/insurance_claim0s.csv')
 
 # Pret pour GIT
+# Modification sur la branche dev
 # let's check whether the data has any null values or not.
 
 # but there are '?' in the datset which we have to remove by NaN Values
